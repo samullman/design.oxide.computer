@@ -28,12 +28,15 @@ body {
 }
 
 main {
-    padding: 0 0 30px 30px;
+    padding: 30px 30px 60px 60px;
+    border-radius: 1px;
+    margin: 20px;
     max-width: 615px;
     z-index: 1;
+    background: #000000cc;
 }
 
-@media only screen and (max-height: 600px) {
+/* @media only screen and (max-height: 600px) {
     main {
         width: 49%;
         padding-bottom: 10px;
@@ -46,7 +49,7 @@ main {
         width: 90%;
         padding-left: 5px;
     }
-}
+} */
 
 a {
     color: #FFFAFA;
