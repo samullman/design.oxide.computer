@@ -107,8 +107,7 @@ svg {
     animation: drawCircle 1s 200ms both;
 }
 
-circle:hover {
-    transition: fill 1s ease;
+.st1:hover {
     fill: #fafafa;
 }
 
