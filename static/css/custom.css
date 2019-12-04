@@ -36,21 +36,6 @@ main {
     background: #000000cc;
 }
 
-/* @media only screen and (max-height: 600px) {
-    main {
-        width: 49%;
-        padding-bottom: 10px;
-        padding-left: 20px;
-    }
-}
-
-@media only screen and (max-width: 600px) {
-    main {
-        width: 90%;
-        padding-left: 5px;
-    }
-} */
-
 a {
     color: #FFFAFA;
     -webkit-transition: all 0.3s ease-in;
