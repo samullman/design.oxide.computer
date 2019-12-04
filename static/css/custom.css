@@ -107,6 +107,11 @@ svg {
     animation: drawCircle 1s 200ms both;
 }
 
+circle:hover {
+    transition: fill 1s ease;
+    fill: #fafafa;
+}
+
 @keyframes drawCircle {
     from {
         opacity: 0;
